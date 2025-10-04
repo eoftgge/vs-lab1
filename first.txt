@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ame
+=======
+asdsla;dad';dlas;d
+wasd
+asdfdgjkdfkjglkdfjglkjd
+>>>>>>> main
